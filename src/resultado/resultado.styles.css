@@ -1,0 +1,20 @@
+.container-billetes {
+    display: flex;
+    flex-direction: column;
+}
+
+.billetes {
+    max-width: 400px;
+}
+
+
+.contador-billete {
+    display: flex;
+    flex-direction: row;
+}
+
+.contador-billete .por {
+    margin: 20px;
+    font-size: 2rem;
+
+}
